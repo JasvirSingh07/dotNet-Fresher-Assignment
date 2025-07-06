@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3XJTQ6PejFc=",
+  "dgSpecHash": "2F84SWHtChA=",
   "success": true,
-  "projectFilePath": "D:\\Assignment\\StudentProjectGraphQL\\StudentProjectGraphQL.csproj",
+  "projectFilePath": "D:\\dotNet Fresher Assignment\\StudentProjectGraphQL\\StudentProjectGraphQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\chillicream.nitro.app\\28.0.7\\chillicream.nitro.app.28.0.7.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\greendonut\\15.1.7\\greendonut.15.1.7.nupkg.sha512",

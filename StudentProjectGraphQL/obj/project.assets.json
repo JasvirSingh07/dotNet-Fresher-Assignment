@@ -4716,11 +4716,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Assignment\\StudentProjectGraphQL\\StudentProjectGraphQL.csproj",
+      "projectUniqueName": "D:\\dotNet Fresher Assignment\\StudentProjectGraphQL\\StudentProjectGraphQL.csproj",
       "projectName": "StudentProjectGraphQL",
-      "projectPath": "D:\\Assignment\\StudentProjectGraphQL\\StudentProjectGraphQL.csproj",
+      "projectPath": "D:\\dotNet Fresher Assignment\\StudentProjectGraphQL\\StudentProjectGraphQL.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\Assignment\\StudentProjectGraphQL\\obj\\",
+      "outputPath": "D:\\dotNet Fresher Assignment\\StudentProjectGraphQL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"

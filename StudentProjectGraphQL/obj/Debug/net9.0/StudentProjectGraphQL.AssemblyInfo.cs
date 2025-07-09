@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentProjectGraphQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78fbc64695c3ff16b95e2795ab95fc3d8febc099")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ef183bfa29562f92f2d2459cc414843e81f29ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentProjectGraphQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentProjectGraphQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
